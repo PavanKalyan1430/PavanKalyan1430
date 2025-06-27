@@ -1,23 +1,24 @@
 # 👋 Hi there, I'm Pavan Kalyan Reddy!  
 > **Computer Science Student | DSA Enthusiast | Problem Solver**
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/PavanKalyan1430/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://pavan_kalyan_2525/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/PavanKalyan1430)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kalyan6565)
 
 ---
 
 ## ✨ About Me
 
 🍀 A passionate **Computer Science student** dedicated to solving problems and building cool things.  
-💯 Currently exploring **Data Structures & Algorithms**, **Machine Learning**, and **System Design**.
+💯 Currently exploring **Data Structures & Algorithms**, **Machine Learning**, and **Data Science**.
 
 ---
 
 ## ❄️ What I'm Currently Learning
 
 - 📖 **DSA** — Daily LeetCode practice  
-- 📖 **Machine Learning** — Exploring core ML models  
+- 📖 **Machine Learning** — Exploring core ML models
+- 📖 **Data Science** — Exploring the cleaning and data manipulation techniques 
 - 📖 **Web Development** — Full-stack applications  
 - 📖 **System Design** — Scalable backend architecture
 
@@ -54,34 +55,38 @@
 
 ## 💯 LeetCode Progress
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/PavanKalyan1430?theme=dark&font=Baloo%202&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/pavan_kalyan_2525?theme=dark&font=Baloo%202&ext=contest)
 
 ---
 
 ## ✨ Featured Projects
 
-### 🧠 [LeetCode Daily Solutions](https://github.com/PavanKalyan1430/LEETCODE-DAILY-SOLUTIONS)  
+### 🧠 [LeetCode Daily Solutions](https://github.com/pavan_kalyan_2525/LEETCODE-DAILY-SOLUTIONS)  
 > 🍀 Daily practice with organized C++ solutions  
 - **Tech**: C++, Git, PowerShell  
 - **Features**: Auto-push script, problem categorization, clean structure
 
-### 🤖 [AI Story Teller](https://github.com/PavanKalyan1430/ai-story-teller)  
+### 🤖 [AI Story Teller](https://github.com/PavanKalyan1430/AI---Story-Teller)  
 > 🍀 AI-powered interactive storytelling  
 - **Tech**: JavaScript, Tailwind CSS, OpenAI  
 - **Features**: Voice input, dynamic narration, genre customization
 
-### 📊 [GitHub Stats Tracker](https://github.com/PavanKalyan1430/github-stats-tracker)  
-> 🍀 Personal analytics dashboard  
-- **Tech**: Python, GitHub API  
-- **Features**: Track contributions, repos, languages
+### 💼 [Employee Analysis Dashboard](https://github.com/PavanKalyan1430/EMPLOYEE-ANALYSIS-DASHBOARD)
+> 🍀 HR insights through visualized data analysis  
+- **Tech**: Pandas, Streamlit, Matplotlib, Seaborn  
+- **Features**: Interactive charts, KPI breakdown, employee churn & performance insights
+
+### 📈 [LinkedIn Engagement Analysis](https://github.com/PavanKalyan1430/LINKEDIN-ENGAMENT-ANALYSIS)  
+> 🍀 ML-powered analysis of LinkedIn content strategy  
+- **Tech**: Pandas, Seaborn, XGBoost, Matplotlib, Scikit-learn  
+- **Features**: EDA, outlier detection, engagement score prediction, multi-notebook structure
 
 ---
 
 ## 🎯 Current Goals
 
-- [ ] 💯 Solve **500+ LeetCode problems** (Currently: _add count_)
-- [ ] 💯 Master **System Design** concepts  
-- [ ] 💯 Build **10+ personal projects**  
+- [ ] 💯 Solve **500+ LeetCode problems** (Currently: 230)  
+- [ ] 💯 Build **5+ personal projects**  
 - [ ] 💯 Contribute to **open source**  
 - [ ] 💯 Learn **Cloud Tech (AWS/Azure)**  
 
@@ -90,7 +95,7 @@
 ## 📖 Learning Resources
 
 - DSA — LeetCode, GeeksforGeeks, HackerRank  
-- ML — Coursera, Kaggle, Fast.ai  
+- ML and Data Science  — Open Ai's, Kaggle  
 - Web Dev — MDN, React Docs, Node.js  
 - System Design — System Design Primer, High Scalability
 
@@ -98,19 +103,18 @@
 
 ## 🏆 Achievements
 
-- 🏆 LeetCode: 4 problems solved (and counting!)  
+- 🏆 LeetCode: 230 problems solved (and counting!)  
 - 🏆 GitHub: Consistent daily contributor  
-- 🏆 Projects: Multiple end-to-end apps built  
 - 🏆 Learning: Regular daily progress & commitment  
 
 ---
 
 ## 📫 Get In Touch
 
-- ✨ Email: `your.email@example.com`  
-- ✨ LinkedIn: [Pavan Kalyan Reddy](https://linkedin.com/in/your-profile)  
-- ✨ LeetCode: [PavanKalyan1430](https://leetcode.com/PavanKalyan1430/)  
-- ✨ Portfolio: `[Add your portfolio link here]`
+- ✨ Email: `pavankalyanreddy2525@gmail.com`  
+- ✨ LinkedIn: [Pavan Kalyan Reddy](https://linkedin.com/in/kalyan6565)  
+- ✨ LeetCode: [PavanKalyan1430](https://leetcode.com/pavan_kalyan_2525/)  
+- ✨ Portfolio: `https://pavankalyan1430.github.io/portfolio143/`
 
 ---
 
