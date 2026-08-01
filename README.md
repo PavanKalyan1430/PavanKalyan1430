@@ -1,134 +1,227 @@
-# B. Pavan Kalyan Reddy
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=2ea44f&center=true&vCenter=true&width=600&lines=Software+Engineer;AI%2FML+Developer;Backend+Engineer" alt="Typing SVG" />
-</p>
+# Hey, I'm Pavan Kalyan Reddy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/kalyan6565/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://pavankalyan1430.github.io/portfolio143/">
-    <img src="https://img.shields.io/badge/Portfolio-pavankalyan1430-008080?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://leetcode.com/u/pavan_kalyan_2525/">
-    <img src="https://img.shields.io/badge/LeetCode-pavan__kalyan__2525-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
-  <a href="https://codolio.com/profile/pavankalyan">
-    <img src="https://img.shields.io/badge/Codolio-pavankalyan-4B0082?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codolio" />
-  </a>
-  <a href="mailto:pavankalyanreddy2525@gmail.com">
-    <img src="https://img.shields.io/badge/Email-pavankalyanreddy2525%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+### `Software Engineer` · `AI/ML Developer` · `Backend Engineer`
 
-<p align="center">
-  <sub>Profile views: <img src="https://profile-counter.glitch.me/PavanKalyan1430/count.svg" alt="Profile Views" /></sub>
-</p>
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalyan6565/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://pavankalyan1430.github.io/portfolio143/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/pavan_kalyan_2525/)
+[![Codolio](https://img.shields.io/badge/Codolio-6C3483?style=for-the-badge&logo=codepen&logoColor=white)](https://codolio.com/profile/pavankalyan)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pavankalyanreddy2525@gmail.com)
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=Building+Scalable+AI-Powered+Applications;Agentic+AI+%7C+RAG+%7C+LLMs+%7C+System+Design" alt="Typing SVG" />
+
+![Profile Views](https://komarev.com/ghpvc/?username=PavanKalyan1430&color=58A6FF&style=flat-square&label=Profile+Views)
+
+</div>
 
 ---
 
-### 👤 About Me
-- 📍 **Location**: India
-- 🎓 **Education**: Bachelor of Technology (B.Tech) in Computer Science & Engineering, Lovely Professional University (LPU) — **CGPA: 8.86 (Dean's List)**, Expected Graduation: 2027
-- 💻 **Current Role**: Student Software Engineer, specializing in backend scaling and intelligent reasoning applications.
-- 💡 **Interests**: Transforming complex algorithmic challenges into high-performance software. Focused heavily on Agentic AI workflows, Retrieval-Augmented Generation (RAG), and production-grade APIs.
+## 🧑‍💻 About Me
+
+```yaml
+Name:       B. Pavan Kalyan Reddy
+Location:   India
+Education:  B.Tech in Computer Science & Engineering
+University: Lovely Professional University (LPU) — Class of 2027
+GPA:        8.86 CGPA | Dean's List
+```
+
+> I'm a Computer Science undergraduate passionate about building **scalable AI-powered applications** and **backend systems**. My core expertise spans **Agentic AI**, **Retrieval-Augmented Generation (RAG)**, **Large Language Models**, and **Backend Engineering**. I believe in clean architecture, production-first thinking, and software craftsmanship.
+
+**Currently deep-diving into:** `Agentic AI` · `LLMs` · `RAG` · `LangGraph` · `FastAPI` · `System Design` · `Distributed Systems`
 
 ---
 
-### 🛠️ Tech Arsenal
+## 🛠️ Tech Stack
 
-- **Programming Languages**: 
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) 
-  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) 
-  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) 
-  ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-- **AI / Machine Learning / Data Science**: 
-  `Agentic AI` `RAG` `LangGraph` `LangChain` `LlamaIndex` `Hugging Face` `Scikit-Learn` `XGBoost` `Pandas` `NumPy`
-- **Backend & Frontend**: 
-  ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white) 
-  ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) 
-  ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) 
-  ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) 
-  ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-- **Databases & Vector Stores**: 
-  `PostgreSQL` `MongoDB` `Redis` `Neo4j` `Qdrant` `MySQL`
-- **Tools & Platforms**: 
-  ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) 
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) 
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) 
-  ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black) 
-  ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+<table>
+<tr>
+<td><b>Languages</b></td>
+<td>
 
----
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c&theme=dark" alt="Languages" />
 
-### 📁 Featured Projects
+</td>
+</tr>
+<tr>
+<td><b>AI / ML</b></td>
+<td>
 
-| Project Name | Description | Tech Stack | Link |
-| :--- | :--- | :--- | :--- |
-| **ARCHER** | Autonomous Reasoning & Contextual Hybrid Engine combining GraphRAG and multi-agent workflows. | FastAPI, LangGraph, Redis, Neo4j, Qdrant, PostgreSQL, LLMs | [GitHub](https://github.com/PavanKalyan1430/LEETCODE-DAILY-SOLUTIONS) |
-| **Resume-JD Matcher** | AI-powered semantic matching engine analyzing resume compatibility with NLP. | Flask, PostgreSQL, REST APIs, TF-IDF, Cosine Similarity, NLTK | [GitHub](https://github.com/PavanKalyan1430) |
-| **Student Chat** | Real-time student messaging platform with JWT authentication and secure storage. | MERN Stack, FastAPI, JWT, MongoDB | [GitHub](https://github.com/PavanKalyan1430) |
-| **LinkedIn Engagement** | Machine learning engine predicting social media engagement using feature engineering. | Python, Scikit-Learn, Pandas, XGBoost, Streamlit | [GitHub](https://github.com/PavanKalyan1430) |
-| **Length of Stay Predictor** | ML regression platform optimizing healthcare facility logistics. | Python, Flask, Scikit-Learn | [GitHub](https://github.com/PavanKalyan1430) |
-| **Revenue Analytics** | Business Intelligence dashboard highlighting key revenue patterns in the hospitality sector. | Power BI, DAX, Excel | [GitHub](https://github.com/PavanKalyan1430) |
+`LangChain` `LangGraph` `LlamaIndex` `Hugging Face` `Scikit-Learn` `XGBoost` `Pandas` `NumPy`
 
----
+</td>
+</tr>
+<tr>
+<td><b>Backend</b></td>
+<td>
 
-### 📊 GitHub & Coding Stats
+<img src="https://skillicons.dev/icons?i=fastapi,flask&theme=dark" alt="Backend" /> &nbsp; `REST APIs`
 
-<p align="center">
-  <img src="https://leetcode-badge.apphb.com/?username=pavan_kalyan_2525&theme=dark" alt="LeetCode Badge" />
-</p>
+</td>
+</tr>
+<tr>
+<td><b>Frontend</b></td>
+<td>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PavanKalyan1430&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavanKalyan1430&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,tailwind&theme=dark" alt="Frontend" /> &nbsp; `Streamlit`
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PavanKalyan1430&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+</td>
+</tr>
+<tr>
+<td><b>Databases</b></td>
+<td>
 
-#### 🐍 Contribution Animation
-<!-- Setup your snake action to output here. Example: -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PavanKalyan1430/PavanKalyan1430/github-contribution-grid-snake/github-contribution-grid-snake.svg" alt="GitHub contribution grid snake" />
-</p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql&theme=dark" alt="Databases" /> &nbsp; `Neo4j` `Qdrant`
+
+</td>
+</tr>
+<tr>
+<td><b>DevOps & Tools</b></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode&theme=dark" alt="Tools" /> &nbsp; `Power BI`
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🏆 Achievements & Certifications
+## 🚀 Featured Projects
 
-| Accomplishment / Certification | Issuer / Detail | Highlight |
-| :--- | :--- | :--- |
-| **750+ Solved Problems** | LeetCode / GeeksforGeeks | Consistent algorithmic problem-solving practice |
-| **Cloud Computing Certification** | NPTEL | **Top 5%** (Elite + Silver) rank |
-| **AI/ML & Core Engineering Foundations** | Academic Highlights | Deep proficiency in DSA, DBMS, OOP, OS, and System Design |
+<table>
+<tr>
+<td width="50%">
+
+### [ARCHER](https://github.com/PavanKalyan1430)
+**Autonomous Retrieval & Contextual Hybrid Engine for Reasoning**
+
+Production-grade Agentic AI platform combining **Hybrid Retrieval**, **GraphRAG**, and **multi-agent workflows** for intelligent document understanding.
+
+`FastAPI` `LangGraph` `LangChain` `Redis` `Neo4j` `Qdrant` `PostgreSQL` `LLMs`
+
+</td>
+<td width="50%">
+
+### [Resume–JD Matcher](https://github.com/PavanKalyan1430)
+**AI-Powered Semantic Matching Engine**
+
+Evaluates resume compatibility against job descriptions using NLP techniques and semantic similarity scoring.
+
+`Flask` `PostgreSQL` `REST APIs` `TF-IDF` `Cosine Similarity` `NLTK`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### [Student Chat Platform](https://github.com/PavanKalyan1430)
+**Real-Time Secure Messaging**
+
+Full-stack collaboration platform with JWT authentication and real-time secure messaging capabilities.
+
+`MERN Stack` `FastAPI` `JWT` `MongoDB`
+
+</td>
+<td width="50%">
+
+### [LinkedIn Engagement Analysis](https://github.com/PavanKalyan1430)
+**ML-Powered Engagement Predictor**
+
+Predicts social media engagement using feature engineering pipelines and gradient boosting models.
+
+`Python` `Scikit-Learn` `XGBoost` `Pandas` `Streamlit`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### [Hospital Stay Predictor](https://github.com/PavanKalyan1430)
+**Healthcare ML Application**
+
+Regression-based predictive system for optimizing hospital resource allocation by forecasting patient stay durations.
+
+`Python` `Flask` `Scikit-Learn`
+
+</td>
+<td width="50%">
+
+### [Revenue Analytics Dashboard](https://github.com/PavanKalyan1430)
+**Business Intelligence Solution**
+
+Interactive BI dashboard uncovering actionable revenue insights in the hospitality sector.
+
+`Power BI` `DAX` `Excel`
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 💼 Experience & Academic Timeline
-- **B.Tech CSE Undergraduate** (2023 - 2027) — Lovely Professional University
-  - Rigorous training in core computing, architecture, and mathematics.
-  - Built autonomous RAG and agent systems (e.g. *ARCHER*) applying clean design principles.
-  - Implemented prediction pipelines processing medium-to-large structured datasets.
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=PavanKalyan1430&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=00000000" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=PavanKalyan1430&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=PavanKalyan1430&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=00000000" alt="GitHub Stats" />
+</picture>
+&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=PavanKalyan1430&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=PavanKalyan1430&layout=compact&theme=default&hide_border=true" />
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavanKalyan1430&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000" alt="Top Languages" />
+</picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=PavanKalyan1430&theme=github-dark-blue&hide_border=true&background=00000000" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=PavanKalyan1430&theme=default&hide_border=true" />
+  <img width="60%" src="https://streak-stats.demolab.com?user=PavanKalyan1430&theme=github-dark-blue&hide_border=true&background=00000000" alt="GitHub Streak" />
+</picture>
+
+</div>
 
 ---
 
-### ✉️ Let's Connect!
-<p align="left">
-  <a href="https://linkedin.com/in/kalyan6565" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://codolio.com/profile/pavankalyan" target="_blank">
-    <img src="https://img.shields.io/badge/Codolio-pavankalyan-4B0082?style=flat-square&logo=codeforces&logoColor=white" alt="Codolio" />
-  </a>
-  <a href="mailto:pavankalyanreddy2525@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
+## 🏅 LeetCode Stats
 
-> *"Clean code always looks like it was written by someone who cares." — Michael Feathers*
+<div align="center">
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/pavan_kalyan_2525?theme=dark&font=Fira%20Code&ext=heatmap)
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+| Achievement | Detail |
+| :--- | :--- |
+| **750+ DSA Problems** | Solved across LeetCode & GeeksforGeeks |
+| **NPTEL Cloud Computing** | Elite + Silver — **Top 5%** nationally |
+| **Dean's List** | 8.86 CGPA at Lovely Professional University |
+| **Core CS Foundations** | DSA · DBMS · OS · Computer Networks · OOP · System Design |
+
+---
+
+<div align="center">
+
+> *"Clean code always looks like it was written by someone who cares."*
+> — Michael Feathers
+
+<br/>
+
+**📬 Open for collaborations, internships, and interesting conversations.**
+
+</div>
