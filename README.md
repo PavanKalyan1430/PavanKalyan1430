@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Olive Gradient Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2e0a,50:3d5a1e,100:6b8e23&height=200&section=header&text=B.%20Pavan%20Kalyan%20Reddy&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Software%20Engineer%20%C2%B7%20AI/ML%20Developer%20%C2%B7%20Backend%20Engineer&descSize=18&descAlignY=52" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2e0a,50:3d5a1e,100:6b8e23&height=210&section=header&text=B.%20Pavan%20Kalyan%20Reddy&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Software%20Engineer%20%C2%B7%20AI/ML%20Developer%20%C2%B7%20Backend%20Engineer&descSize=18&descAlignY=55" width="100%" />
 
 <br/>
 
@@ -12,24 +12,27 @@
 
 <br/><br/>
 
-<!-- Social Badges -->
+<!-- Social & Action Badges -->
 <a href="https://www.linkedin.com/in/kalyan6565/"><img src="https://img.shields.io/badge/LinkedIn-3d5a1e?style=for-the-badge&logo=linkedin&logoColor=ffffff" /></a>&nbsp;
 <a href="https://leetcode.com/u/pavan_kalyan_2525/"><img src="https://img.shields.io/badge/LeetCode-3d5a1e?style=for-the-badge&logo=leetcode&logoColor=ffffff" /></a>&nbsp;
 <a href="https://codolio.com/profile/pavankalyan"><img src="https://img.shields.io/badge/Codolio-3d5a1e?style=for-the-badge&logo=codepen&logoColor=ffffff" /></a>&nbsp;
 <a href="https://pavankalyan1430.github.io/portfolio143/"><img src="https://img.shields.io/badge/Portfolio-3d5a1e?style=for-the-badge&logo=vercel&logoColor=ffffff" /></a>&nbsp;
-<a href="mailto:pavankalyanreddy2525@gmail.com"><img src="https://img.shields.io/badge/Email-3d5a1e?style=for-the-badge&logo=gmail&logoColor=ffffff" /></a>
+<a href="mailto:pavankalyanreddy2525@gmail.com"><img src="https://img.shields.io/badge/Email-3d5a1e?style=for-the-badge&logo=gmail&logoColor=ffffff" /></a>&nbsp;
+<a href="https://pavankalyan1430.github.io/portfolio143/"><img src="https://img.shields.io/badge/Resume-3d5a1e?style=for-the-badge&logo=adobeacrobatreader&logoColor=ffffff" /></a>
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=PavanKalyan1430&color=3d5a1e&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=PavanKalyan1430&color=3d5a1e&style=for-the-badge&label=Profile+Views)
 &nbsp;&nbsp;
-![Followers](https://img.shields.io/github/followers/PavanKalyan1430?style=flat-square&color=3d5a1e&label=Followers)
+![Followers](https://img.shields.io/github/followers/PavanKalyan1430?style=for-the-badge&color=3d5a1e&label=Followers)
 
 </div>
 
 ---
 
-# 📌 **ABOUT ME**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a2e0a,100:3d5a1e&height=60&section=header&text=📌%20%20ABOUT%20ME&fontSize=22&fontColor=ffffff&fontAlignY=50&fontAlign=50" width="100%" />
+
+<br/>
 
 <table>
 <tr><td>
@@ -62,7 +65,9 @@ I specialize in building **production-grade AI systems** and **high-throughput b
 
 ---
 
-# ⚡ **TECH ARSENAL**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a2e0a,100:3d5a1e&height=60&section=header&text=⚡%20%20TECH%20ARSENAL&fontSize=22&fontColor=ffffff&fontAlignY=50&fontAlign=50" width="100%" />
+
+<br/>
 
 <div align="center">
 
@@ -122,7 +127,9 @@ I specialize in building **production-grade AI systems** and **high-throughput b
 
 ---
 
-# 🚀 **FEATURED PROJECTS**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a2e0a,100:3d5a1e&height=60&section=header&text=🚀%20%20FEATURED%20PROJECTS&fontSize=22&fontColor=ffffff&fontAlignY=50&fontAlign=50" width="100%" />
+
+<br/>
 
 ### 🔹 **ARCHER — Autonomous Retrieval & Contextual Hybrid Engine for Reasoning**
 > Production-grade **Agentic AI platform** combining Hybrid Retrieval, GraphRAG, and multi-agent workflows for intelligent document understanding across private knowledge bases.
@@ -162,7 +169,9 @@ I specialize in building **production-grade AI systems** and **high-throughput b
 
 ---
 
-# 🏆 **ACHIEVEMENTS & CREDENTIALS**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a2e0a,100:3d5a1e&height=60&section=header&text=🏆%20%20ACHIEVEMENTS%20%26%20CREDENTIALS&fontSize=22&fontColor=ffffff&fontAlignY=50&fontAlign=50" width="100%" />
+
+<br/>
 
 <div align="center">
 
@@ -177,7 +186,9 @@ I specialize in building **production-grade AI systems** and **high-throughput b
 
 ---
 
-# 📈 **LEETCODE ACTIVITY**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a2e0a,100:3d5a1e&height=60&section=header&text=📈%20%20LEETCODE%20ACTIVITY&fontSize=22&fontColor=ffffff&fontAlignY=50&fontAlign=50" width="100%" />
+
+<br/>
 
 <div align="center">
 
@@ -187,7 +198,9 @@ I specialize in building **production-grade AI systems** and **high-throughput b
 
 ---
 
-# 📊 **GITHUB ANALYTICS**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a2e0a,100:3d5a1e&height=60&section=header&text=📊%20%20GITHUB%20ANALYTICS&fontSize=22&fontColor=ffffff&fontAlignY=50&fontAlign=50" width="100%" />
+
+<br/>
 
 <div align="center">
 
