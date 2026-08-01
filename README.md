@@ -1,140 +1,206 @@
-# 👋 Hi there, I'm Pavan Kalyan Reddy!  
-> **Computer Science Student | DSA Enthusiast | Problem Solver**
+```markdown
+<h1 align="center">Hi 👋, I'm Pavan Kalyan Reddy</h1>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/pavan_kalyan_2525/)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/PavanKalyan1430)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kalyan6565)
-[![Resume](https://img.shields.io/badge/Resume-View%20PDF-green?style=for-the-badge&logo=adobeacrobatreader)](./Pavan%20Kalyan%20Reddy%20Resume.pdf)
+<h3 align="center">
+AI/ML Engineer • Backend Developer • FastAPI • Agentic AI
+</h3>
 
-
----
-
-## ✨ About Me
-
-🍀 A passionate **Computer Science student** dedicated to solving problems and building cool things.  
-💯 Currently exploring **Data Structures & Algorithms**, **Machine Learning**, and **Data Science**.
+<p align="center">
+Building scalable AI applications using LLMs, RAG, FastAPI, and modern backend technologies.
+</p>
 
 ---
 
-## ❄️ What I'm Currently Learning
+## 👨‍💻 About Me
 
-- 📖 **DSA** — Daily LeetCode practice  
-- 📖 **Machine Learning** — Exploring core ML models
-- 📖 **Data Science** — Exploring the cleaning and data manipulation techniques 
-- 📖 **Web Development** — Full-stack applications  
-- 📖 **System Design** — Scalable backend architecture
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### ⚙️ Tools & Frameworks
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
-![Seaborn](https://img.shields.io/badge/Seaborn-2C2D72?style=for-the-badge&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+- 🎓 B.Tech in Computer Science & Engineering @ Lovely Professional University (2027)
+- 🤖 Passionate about Artificial Intelligence, Backend Engineering, and Scalable Systems
+- 🚀 Currently building AI-powered applications using **Agentic AI, LangGraph, RAG, and FastAPI**
+- 💡 Interested in Software Engineering, Machine Learning, Distributed Systems, and Cloud Computing
+- 🌱 Continuously learning system design, production AI architectures, and modern backend development
 
 ---
 
-## 🏆 GitHub Stats
+## 🛠 Tech Stack
 
-![Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=PavanKalyan1430&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PavanKalyan1430&layout=compact&theme=tokyonight&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PavanKalyan1430&theme=tokyonight&hide_border=true)
+### Languages
 
----
+<p>
+Python • Java • C++ • SQL • C
+</p>
 
-## 💯 LeetCode Progress
+### Backend
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/pavan_kalyan_2525?theme=dark&font=Baloo%202&ext=contest)
+<p>
+FastAPI • Flask • REST APIs
+</p>
 
----
+### AI & Machine Learning
 
-## ✨ Featured Projects
+<p>
+LangChain • LangGraph • LlamaIndex • RAG • Agentic AI • Hugging Face • Transformers • Scikit-Learn • Pandas • NumPy • Matplotlib
+</p>
 
-### 🧠 [LeetCode Daily Solutions](https://github.com/pavan_kalyan_2525/LEETCODE-DAILY-SOLUTIONS)  
-> 🍀 Daily practice with organized C++ solutions  
-- **Tech**: C++, Git, PowerShell  
-- **Features**: Auto-push script, problem categorization, clean structure
+### Frontend
 
-### 🤖 [AI Story Teller](https://github.com/PavanKalyan1430/AI---Story-Teller)  
-> 🍀 AI-powered interactive storytelling  
-- **Tech**: JavaScript, Tailwind CSS, OpenAI  
-- **Features**: Voice input, dynamic narration, genre customization
+<p>
+React • Tailwind CSS • Streamlit
+</p>
 
-### 💼 [Employee Analysis Dashboard](https://github.com/PavanKalyan1430/EMPLOYEE-ANALYSIS-DASHBOARD)
-> 🍀 HR insights through visualized data analysis  
-- **Tech**: Pandas, Streamlit, Matplotlib, Seaborn  
-- **Features**: Interactive charts, KPI breakdown, employee churn & performance insights
+### Databases
 
-### 📈 [LinkedIn Engagement Analysis](https://github.com/PavanKalyan1430/LINKEDIN-ENGAMENT-ANALYSIS)  
-> 🍀 ML-powered analysis of LinkedIn content strategy  
-- **Tech**: Pandas, Seaborn, XGBoost, Matplotlib, Scikit-learn  
-- **Features**: EDA, outlier detection, engagement score prediction, multi-notebook structure
+<p>
+PostgreSQL • MongoDB • Redis • Neo4j • Qdrant • MySQL
+</p>
 
----
+### Tools
 
-## 🎯 Current Goals
-
-- [ ] 💯 Solve **500+ LeetCode problems** (Currently: 230)  
-- [ ] 💯 Build **5+ personal projects**  
-- [ ] 💯 Contribute to **open source**  
-- [ ] 💯 Learn **Cloud Tech (AWS/Azure)**  
+<p>
+Git • GitHub • Docker • Jupyter Notebook • Power BI • Linux
+</p>
 
 ---
 
-## 📖 Learning Resources
+# 🚀 Featured Projects
 
-- DSA — LeetCode, GeeksforGeeks, HackerRank  
-- ML and Data Science  — Open Ai's, Kaggle  
-- Web Dev — MDN, React Docs, Node.js  
-- System Design — System Design Primer, High Scalability
+## 🏹 ARCHER — Autonomous Retrieval & Contextual Hybrid Engine for Reasoning
 
----
+An enterprise-inspired Agentic RAG platform designed for intelligent document understanding and multi-step reasoning.
 
-## 🏆 Achievements
+**Highlights**
 
-- 🏆 LeetCode: 230 problems solved (and counting!)  
-- 🏆 GitHub: Consistent daily contributor  
-- 🏆 Learning: Regular daily progress & commitment  
-
----
-
-## 📫 Get In Touch
-
-- ✨ Email: `pavankalyanreddy2525@gmail.com`  
-- ✨ LinkedIn: [Pavan Kalyan Reddy](https://linkedin.com/in/kalyan6565)  
-- ✨ LeetCode: [PavanKalyan1430](https://leetcode.com/pavan_kalyan_2525/)  
-- ✨ Portfolio: `https://pavankalyan1430.github.io/portfolio143/`
+- Agentic AI workflows
+- Hybrid Search (Vector + BM25)
+- GraphRAG Integration
+- LangGraph orchestration
+- FastAPI backend
+- PostgreSQL + Redis + Neo4j + Qdrant
+- Streaming AI Responses
+- Metadata Extraction
+- Semantic Chunking
 
 ---
 
-## ❄️ Fun Facts
+## 📄 Resume–JD Matching Platform
 
-- 💯 **Goal**: Become a Software Engineer at a top tech company  
-- 📖 **Currently Reading**: "Cracking the Coding Interview"  
-- 🎧 **Music**: Lo-fi beats while coding  
-- ☕ **Fuel**: Coffee + Determination = Success  
-- ✨ **Quote**: *"The best way to predict the future is to invent it."* – Alan Kay  
+An intelligent resume screening platform that compares resumes with job descriptions using NLP techniques.
 
----
+**Features**
 
-## 📊 Weekly Activity
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+- Resume Parsing
+- TF-IDF Matching
+- Cosine Similarity
+- Recruiter Dashboard
+- REST APIs
+- PostgreSQL Database
 
 ---
 
-⭐ If you like what I do, **star** my repositories and let's connect!
+## 💬 Student Chat Platform
 
-🍀 *"The only way to do great work is to love what you do."* — Steve Jobs  
+A real-time communication platform built for students.
+
+**Features**
+
+- JWT Authentication
+- Real-time Messaging
+- FastAPI APIs
+- MERN Architecture
+- Secure User Management
+
+---
+
+## 📊 LinkedIn Engagement Analysis
+
+Machine Learning project that predicts engagement performance of LinkedIn posts.
+
+**Highlights**
+
+- Data Cleaning
+- Feature Engineering
+- XGBoost Model
+- Streamlit Dashboard
+- Interactive Visualizations
+
+---
+
+## 🏥 Hospital Length of Stay Prediction
+
+Machine Learning application for predicting hospital stay duration.
+
+**Highlights**
+
+- Data Preprocessing
+- Regression Models
+- Flask Deployment
+- Performance Evaluation
+- Interactive Prediction Interface
+
+---
+
+## 📈 Hotel Revenue Analytics Dashboard
+
+Business Intelligence dashboard developed using Power BI.
+
+**Highlights**
+
+- Revenue Analysis
+- Occupancy Insights
+- KPI Dashboard
+- Interactive Reports
+- Business Recommendations
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=PavanKalyan1430&show_icons=true&hide_border=true"/>
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PavanKalyan1430&hide_border=true"/>
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavanKalyan1430&layout=compact&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 Achievements
+
+- ⭐ Solved **750+ DSA problems** across LeetCode and GeeksforGeeks
+- 🥈 Top **5%** in **NPTEL Cloud Computing**
+- 🤖 Built multiple AI, ML, and Backend projects
+- 📚 Strong interest in System Design, Agentic AI, and Production AI Systems
+
+---
+
+# 🎯 Current Focus
+
+- Agentic AI
+- Large Language Models
+- Retrieval-Augmented Generation (RAG)
+- FastAPI Backend Development
+- Distributed AI Systems
+- Production-grade Software Engineering
+
+---
+
+# 📫 Connect With Me
+
+- 📧 Email: YOUR_EMAIL
+- 💼 LinkedIn: YOUR_LINKEDIN
+- 💻 GitHub: https://github.com/PavanKalyan1430
+- 🧩 LeetCode: YOUR_LEETCODE
+- 🌐 Portfolio: YOUR_PORTFOLIO
+
+---
+
+<p align="center">
+Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+</p>
+```
