@@ -1,4 +1,4 @@
-```markdown
+
 <h1 align="center">Hi 👋, I'm Pavan Kalyan Reddy</h1>
 
 <p align="center">
@@ -256,4 +256,3 @@ https://pavankalyan1430.github.io/portfolio143/
 <p align="center">
 <i>"Building intelligent software, one project at a time."</i>
 </p>
-```
