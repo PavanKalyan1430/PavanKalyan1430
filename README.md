@@ -1,206 +1,259 @@
 ```markdown
 <h1 align="center">Hi 👋, I'm Pavan Kalyan Reddy</h1>
 
-<h3 align="center">
-AI/ML Engineer • Backend Developer • FastAPI • Agentic AI
-</h3>
+<p align="center">
+<b>AI/ML Engineer • Backend Developer • FastAPI • Agentic AI</b>
+</p>
 
 <p align="center">
-Building scalable AI applications using LLMs, RAG, FastAPI, and modern backend technologies.
+Building scalable AI applications using LLMs, Retrieval-Augmented Generation (RAG), and modern backend technologies.
+</p>
+
+<p align="center">
+<a href="https://linkedin.com/in/kalyan6565">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:pavankalyanreddy2525@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/pavan_kalyan_2525/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white"/>
+</a>
+<a href="https://github.com/PavanKalyan1430">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# About Me
 
-- 🎓 B.Tech in Computer Science & Engineering @ Lovely Professional University (2027)
-- 🤖 Passionate about Artificial Intelligence, Backend Engineering, and Scalable Systems
-- 🚀 Currently building AI-powered applications using **Agentic AI, LangGraph, RAG, and FastAPI**
-- 💡 Interested in Software Engineering, Machine Learning, Distributed Systems, and Cloud Computing
-- 🌱 Continuously learning system design, production AI architectures, and modern backend development
+🎓 B.Tech in Computer Science & Engineering at **Lovely Professional University** (2027)
+
+I enjoy designing and building intelligent software systems that combine **Artificial Intelligence**, **Backend Engineering**, and **Machine Learning** to solve real-world problems.
+
+My primary interests include:
+
+- Agentic AI
+- Retrieval-Augmented Generation (RAG)
+- Backend Development
+- Machine Learning
+- Distributed Systems
+- System Design
+
+I believe in writing clean, maintainable code while continuously improving my software engineering skills.
 
 ---
 
-## 🛠 Tech Stack
+# Tech Stack
 
 ### Languages
 
-<p>
-Python • Java • C++ • SQL • C
-</p>
+`Python` • `Java` • `C++` • `SQL` • `C`
 
 ### Backend
 
-<p>
-FastAPI • Flask • REST APIs
-</p>
+`FastAPI` • `Flask` • `REST APIs`
 
 ### AI & Machine Learning
 
-<p>
-LangChain • LangGraph • LlamaIndex • RAG • Agentic AI • Hugging Face • Transformers • Scikit-Learn • Pandas • NumPy • Matplotlib
-</p>
+`LangChain`
 
-### Frontend
+`LangGraph`
 
-<p>
-React • Tailwind CSS • Streamlit
-</p>
+`LlamaIndex`
+
+`Transformers`
+
+`Hugging Face`
+
+`Scikit-Learn`
+
+`Pandas`
+
+`NumPy`
+
+`Matplotlib`
+
+`RAG`
+
+`Agentic AI`
 
 ### Databases
 
-<p>
-PostgreSQL • MongoDB • Redis • Neo4j • Qdrant • MySQL
-</p>
+`PostgreSQL`
+
+`MongoDB`
+
+`Redis`
+
+`Neo4j`
+
+`Qdrant`
+
+`MySQL`
+
+### Frontend
+
+`React`
+
+`Tailwind CSS`
+
+`Streamlit`
 
 ### Tools
 
-<p>
-Git • GitHub • Docker • Jupyter Notebook • Power BI • Linux
-</p>
+`Git`
+
+`GitHub`
+
+`Docker`
+
+`Power BI`
+
+`Jupyter Notebook`
+
+`Linux`
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
-## 🏹 ARCHER — Autonomous Retrieval & Contextual Hybrid Engine for Reasoning
+## 🏹 ARCHER
+### Autonomous Retrieval & Contextual Hybrid Engine for Reasoning
 
-An enterprise-inspired Agentic RAG platform designed for intelligent document understanding and multi-step reasoning.
+Enterprise-inspired Agentic RAG platform designed for intelligent document understanding and multi-step reasoning.
 
 **Highlights**
 
-- Agentic AI workflows
-- Hybrid Search (Vector + BM25)
+- Hybrid Retrieval (Vector + BM25)
+- LangGraph Multi-Agent Workflow
 - GraphRAG Integration
-- LangGraph orchestration
-- FastAPI backend
-- PostgreSQL + Redis + Neo4j + Qdrant
+- FastAPI Backend
+- Redis Caching
+- PostgreSQL
+- Neo4j
+- Qdrant Vector Database
 - Streaming AI Responses
-- Metadata Extraction
 - Semantic Chunking
+- Metadata Extraction
 
 ---
 
 ## 📄 Resume–JD Matching Platform
 
-An intelligent resume screening platform that compares resumes with job descriptions using NLP techniques.
+Resume screening platform that intelligently compares resumes with job descriptions using NLP.
 
-**Features**
+**Tech**
 
-- Resume Parsing
-- TF-IDF Matching
-- Cosine Similarity
-- Recruiter Dashboard
-- REST APIs
-- PostgreSQL Database
+Flask • PostgreSQL • REST APIs • TF-IDF • Cosine Similarity • NLP
 
 ---
 
 ## 💬 Student Chat Platform
 
-A real-time communication platform built for students.
+Real-time student communication platform with authentication and secure messaging.
 
-**Features**
+**Tech**
 
-- JWT Authentication
-- Real-time Messaging
-- FastAPI APIs
-- MERN Architecture
-- Secure User Management
+MERN • FastAPI • JWT Authentication
 
 ---
 
 ## 📊 LinkedIn Engagement Analysis
 
-Machine Learning project that predicts engagement performance of LinkedIn posts.
+Machine Learning application that predicts LinkedIn engagement using advanced feature engineering.
 
-**Highlights**
+**Tech**
 
-- Data Cleaning
-- Feature Engineering
-- XGBoost Model
-- Streamlit Dashboard
-- Interactive Visualizations
+Python • XGBoost • Pandas • Scikit-Learn • Streamlit
 
 ---
 
 ## 🏥 Hospital Length of Stay Prediction
 
-Machine Learning application for predicting hospital stay duration.
+Regression-based Machine Learning application for predicting patient hospital stay duration.
 
-**Highlights**
+**Tech**
 
-- Data Preprocessing
-- Regression Models
-- Flask Deployment
-- Performance Evaluation
-- Interactive Prediction Interface
+Python • Flask • Scikit-Learn
 
 ---
 
 ## 📈 Hotel Revenue Analytics Dashboard
 
-Business Intelligence dashboard developed using Power BI.
+Interactive business intelligence dashboard built using Power BI.
 
-**Highlights**
+**Features**
 
 - Revenue Analysis
 - Occupancy Insights
-- KPI Dashboard
-- Interactive Reports
-- Business Recommendations
+- KPI Tracking
+- Interactive Dashboard
 
 ---
 
-# 📈 GitHub Stats
+# Achievements
+
+🏆 Solved **750+ Data Structures & Algorithms** problems across LeetCode and GeeksforGeeks
+
+🏆 **Top 5%** in **NPTEL Cloud Computing**
+
+🏆 Built multiple AI, ML, Backend, and Data Analytics projects
+
+🏆 Strong foundation in Data Structures, Algorithms, Databases, Operating Systems, and Computer Networks
+
+---
+
+# Current Focus
+
+- Agentic AI
+- Large Language Models
+- Retrieval-Augmented Generation
+- Backend Engineering
+- System Design
+- Production AI Applications
+
+---
+
+# GitHub Statistics
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PavanKalyan1430&show_icons=true&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=PavanKalyan1430&show_icons=true&hide_border=true"/>
 
-<br>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavanKalyan1430&layout=compact&hide_border=true"/>
+
+</p>
+
+<p align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=PavanKalyan1430&hide_border=true"/>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavanKalyan1430&layout=compact&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🏆 Achievements
+# Let's Connect
 
-- ⭐ Solved **750+ DSA problems** across LeetCode and GeeksforGeeks
-- 🥈 Top **5%** in **NPTEL Cloud Computing**
-- 🤖 Built multiple AI, ML, and Backend projects
-- 📚 Strong interest in System Design, Agentic AI, and Production AI Systems
+📧 **Email**  
+pavankalyanreddy2525@gmail.com
 
----
+💼 **LinkedIn**  
+https://linkedin.com/in/kalyan6565
 
-# 🎯 Current Focus
+💻 **GitHub**  
+https://github.com/PavanKalyan1430
 
-- Agentic AI
-- Large Language Models
-- Retrieval-Augmented Generation (RAG)
-- FastAPI Backend Development
-- Distributed AI Systems
-- Production-grade Software Engineering
+🧩 **LeetCode**  
+https://leetcode.com/pavan_kalyan_2525/
 
----
-
-# 📫 Connect With Me
-
-- 📧 Email: YOUR_EMAIL
-- 💼 LinkedIn: YOUR_LINKEDIN
-- 💻 GitHub: https://github.com/PavanKalyan1430
-- 🧩 LeetCode: YOUR_LEETCODE
-- 🌐 Portfolio: YOUR_PORTFOLIO
+🌐 **Portfolio**  
+https://pavankalyan1430.github.io/portfolio143/
 
 ---
 
 <p align="center">
-Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+<i>"Building intelligent software, one project at a time."</i>
 </p>
 ```
